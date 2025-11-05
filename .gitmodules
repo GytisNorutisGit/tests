@@ -1,0 +1,3 @@
+[submodule "application-submodule"]
+	path = application-submodule
+	url = https://github.com/GytisNorutisGit/application-submodule
